@@ -11,7 +11,7 @@ My attempt at completing https://github.com/open-source-society/computer-science
 ### Introduction
 Course|Start - End|Notes
 :--|:--|:--:
-[Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)| Oct 5, 2015 | [#](courses/001-introduction-computer-science-harvardx-cs50x)
+[Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)| Oct 5, 2015 | [#](courses/001-introduction-computer-science-harvardx-cs50x/_index.md)
 
 ---
 ### Resources
