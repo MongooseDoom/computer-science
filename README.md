@@ -18,3 +18,4 @@ Course|Start - End|Notes
 - [OSS University](https://github.com/open-source-society/computer-science)
 - [My OSS profile](https://github.com/open-source-society/computer-science/issues/31#issuecomment-145574396)
 - [Obtaining a Thorough CS Background Online by Ben Nash ](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
+- [MIT Challenge](http://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
