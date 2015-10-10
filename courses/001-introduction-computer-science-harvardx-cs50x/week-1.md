@@ -2,7 +2,7 @@
 October 5-7, 2014
 
 ## Todo
-- [ ]Pages 1 – 7, 9, and 10 of http://www.howstuffworks.com/c.htm.
+- [x]Pages 1 – 7, 9, and 10 of http://www.howstuffworks.com/c.htm.
 - [ ] Follow along with [Hello, C](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html#hello_c)
 - [ ] Watch [Shorts](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html#shorts)
 - [ ] [Hello again, C](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html#hello_again_c)
@@ -13,3 +13,12 @@ October 5-7, 2014
 ---
 
 ## Notes
+
+### C
+<code>printf("Hello, %s", s)</code> - For printing strings
+- int uses %d
+- float uses %f
+- char uses %c
+- character strings uses %s
+
+<code>scanf("%d", &b)</code> - Reads data and stores it
