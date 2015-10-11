@@ -4,7 +4,7 @@ My attempt at completing https://github.com/open-source-society/computer-science
 
 
 ## Index
-- [Introduction to Computer Science](#introduction)
+- [Introduction to Computer Science](#introduction-to-computer-science)
 - [Resources](#resources)
 
 ---
