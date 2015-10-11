@@ -4,11 +4,11 @@ My attempt at completing https://github.com/open-source-society/computer-science
 
 
 ## Index
-- [Introduction](#introduction)
+- [Introduction to Computer Science](#introduction)
 - [Resources](#resources)
 
 ---
-### Introduction
+### Introduction to Computer Science
 Course|Start - End|Notes
 :--|:--|:--:
 [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)| Oct 5, 2015 | [#](courses/001-introduction-computer-science-harvardx-cs50x/_index.md)
