@@ -20,8 +20,8 @@
 https://x.cs50.net/2015/schedule
 
 - [x] [Problem Set 0](http://cdn.cs50.net/2015/x/psets/0/pset0/pset0.html)	due 15 October 2015
-- [ ] [Problem Set 1](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html)	due 23 October 2015
-- [ ] Problem Set 2	due 31 October 2015
+- [x] [Problem Set 1](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html)	due 23 October 2015
+- [ ] [Problem Set 2](http://cdn.cs50.net/2015/x/psets/2/pset2/pset2.html)	due 31 October 2015
 - [ ] Problem Set 3	due 7 November 2015
 - [ ] Problem Set 4	due 15 November 2015
 - [ ] Problem Set 5	due 23 November 2015

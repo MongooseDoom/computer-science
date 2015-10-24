@@ -1,5 +1,5 @@
 # Week 1
-October 8, 2014
+October 8-14, 2014
 
 [Problem Set 1](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html)
 
@@ -17,10 +17,10 @@ October 8, 2014
  - [x] Style
  - [x] Typecasting
  - [x] Variables
-- [ ] [Hello again, C](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html#hello_again_c) [3/11]
-- [ ] [Itsa Mario](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html#itsa_mario)
-- [ ] [Time for Change](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html#time_for_change)
-- [ ] [Submit Problem Set 1](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html#how_to_submit)
+- [x] [Hello again, C](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html#hello_again_c) [11/11]
+- [x] [Itsa Mario](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html#itsa_mario)
+- [x] [Time for Change](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html#time_for_change)
+- [x] [Submit Problem Set 1](http://cdn.cs50.net/2015/x/psets/1/pset1/pset1.html#how_to_submit)
 
 ---
 
